@@ -55,6 +55,6 @@ Advanced in Java, Spring Family, SpringCloud, Oracle PLSQL, MySQL, Refactor, Per
 
 Intermediate in React, Vue, Angular
 
-Familiar with CentOS, Ubuntu, Kubernetes, Pinpoint, VisualVM, MemoryAnalyzer, SQL Execution Plans, Athas
+Familiar with CentOS, Ubuntu, Docker, Kubernetes, Pinpoint, VisualVM, MemoryAnalyzer, SQL Execution Plans, Athas, Git
 
 
