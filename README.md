@@ -7,6 +7,14 @@ Address: Room 1807, Building 4, Phase 6, Jiazhaoye City Plaza, Zhonghao 1st Road
 # Objective: 
 Java or PHP Development
 
+# Skills:
+
+Advanced in Java, Spring Family, SpringCloud, Oracle PLSQL, MySQL, Refactor, Performance Tuning, Design with UML, PHP, JavaScript
+
+Intermediate in React, Vue, Angular
+
+Familiar with CentOS, Ubuntu, Docker, Kubernetes, Pinpoint, VisualVM, MemoryAnalyzer, SQL Execution Plans, Athas, Git
+
 # Education:
 Bachelor's degree in Computer Science and Applications
 Graduated from Shantou University in 2001
@@ -49,12 +57,5 @@ Maintain a blood station software management system (VB6, Oracle)
 
 
 
-# Skills:
-
-Advanced in Java, Spring Family, SpringCloud, Oracle PLSQL, MySQL, Refactor, Performance Tuning, Design with UML, PHP, JavaScript
-
-Intermediate in React, Vue, Angular
-
-Familiar with CentOS, Ubuntu, Docker, Kubernetes, Pinpoint, VisualVM, MemoryAnalyzer, SQL Execution Plans, Athas, Git
 
 
